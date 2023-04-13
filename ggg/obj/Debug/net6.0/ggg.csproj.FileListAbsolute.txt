@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\bin\Debug\net6.0\ggg.exe
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\bin\Debug\net6.0\ggg.deps.json
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\bin\Debug\net6.0\ggg.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\bin\Debug\net6.0\ggg.dll
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\bin\Debug\net6.0\ggg.pdb
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.dll
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\refint\ggg.dll
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.pdb
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ggg.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\ggg\ggg\obj\Debug\net6.0\ref\ggg.dll
